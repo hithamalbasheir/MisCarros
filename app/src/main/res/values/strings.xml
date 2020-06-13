@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Mis Carros</string>
+    <string name="action_settings">Settings</string>
+    <string name="newCarManufact">Enter Car Manufacturer</string>
+    <string name="newCarName">Enter Car Name</string>
+    <string name="newCarDOB">Enter Car Model</string>
+    <string name="addNewCarBu">Add Car</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="carName">Car name :</string>
+    <string name="carManufact">Manufacturer</string>
+    <string name="carModel">Model</string>
+    <string name="confTitle">Delete the shit?</string>
+    <string name="confMsg">U mofo sure U wanna remove that shit?</string>
+    <string name="noBu">Fuck NO</string>
+    <string name="yesBu">Hell yeah</string>
+    <string name="enterSomething">fill some gaps U fucking gap</string>
+    <string name="editCarText">Edit Car Details</string>
+    <string name="editCarBu">edit that shit</string>
+    <string name="manufHint">Car Manuf (Default)</string>
+    <string name="nameHint">Car Name (Default)</string>
+    <string name="DOBHint">Car Model (Default)</string>
+    <string name="addImageText">add image</string>
+    <string name="noCamera">Your device ain\'t got camera ya old school</string>
+    <string name="uAintGotPermit">U ain\'t  got pemrission to do that u peace of crap ;)</string>
+    <string name="editImageText">edit image</string>
+    <string name="onBackPressed">Press again to exit</string>
+    <string name="updateMileage">Update mileage</string>
+    <string name="newCarMileage">newCarMileage</string>
+    <string name="enter_car_mileage">Enter Car Mileage</string>
+    <string name="editMileageBu">edit mileage</string>
+    <string name="milleage">Mileage</string>
+    <string name="oilChangeText">Next oil check</string>
+    <string name="oilChangeBU">update date</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date_picker_title">Pick some date U A**hole</string>
+    <string name="available">Available</string>
+    <string name="notAvailable">Not Available</string>
+    <string name="newCarPlate">Enter Car Plate</string>
+    <string name="plateHint">Car Plate (Default)</string>
+    <string name="carPlate">Car Plate :</string>
+    <string name="todo">TODO</string>
+    <string name="notification_content_text">Your fucking car needs to change its oil</string>
+    <string name="notification_title_text">You\'ve an oil change</string>
+    <string name="channel_name">idk</string>
+    <string name="channel_descrip">its a fucking channel</string>
+
+    <string name="new_message_notification_title_template">New message: %1$s</string>
+
+    <!-- TODO: remove this placeholder text -->
+    <string name="new_message_notification_placeholder_text_template">You said %1$s and lorem ipsum
+        dolor sit amet, consectetur adipiscing elit. Etiam non enim magna. Morbi dictum, velit vel
+        semper venenatis, magna odio volutpat velit, at ullamcorper nulla lacus sed turpis.
+        Pellentesque vitae metus elit, nec tincidunt tellus. Integer sed nisl sem, ullamcorper
+        ornare lacus. Duis ac mauris sed massa congue volutpat. Donec sed erat sit amet turpis
+        viverra rhoncus sit amet nec magna. Donec lacinia ligula at libero volutpat volutpat nec nec
+        tortor.
+    </string>
+
+    <string name="action_share">Share</string>
+    <string name="action_reply">Reply</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="carName">Car name :</string>
+    <string name="carManufact">Manufacturer</string>
+    <string name="carModel">Model</string>
+    <string name="confTitle">U mofo sure U wanna remove that shit?</string>
+</resources>
